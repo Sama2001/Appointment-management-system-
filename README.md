@@ -1,7 +1,7 @@
 # SoftwareProject
 The idea is to build an appointment management system that helps in managing customers, contacts, appointments, visits, notes, billing, and services.
 
-Features:
+# Features:
 The system shall manage users, roles, and permissions. Each user will be able to log in to the system with a username and password and access the pages based on the permissions he/she has.
 
 The system shall manage customers. Each customer should have a record in the system so we can track his/her appointments and visits.
@@ -22,5 +22,5 @@ The user should be able to add an invoice for each visit.
 
 The system should be able to generate the needed reports.
 
-Other tools used in the project:
+# Other tools used in the project:
 We also used Jenkin CI to reliably build, and test our software, SonarQube to improve the quality of our code and to refactor it properly, Jacoco for generating reports about the code coverage. We also applied JUnit Testing for the project using Cucumber, Gherkins.
