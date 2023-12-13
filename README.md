@@ -1,4 +1,4 @@
-# appointment system (softwre programming course)
+# appointment system (softwre engineering course)
 The idea is to build an appointment management system that helps in managing customers, contacts, appointments, visits, notes, billing, and services.
 
 # Features:
